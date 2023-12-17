@@ -1,4 +1,3 @@
-纯享4K,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000004000011651&livemode=1&stbId=2&channel-id=ystenlive
 CCTV1,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=5000000010000030810&livemode=1&stbId=10&channel-id=bestzb
 CCTV1,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000021973&livemode=1&stbId=2&channel-id=ystenlive
 CCTV1,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000018602&livemode=1&stbId=2&channel-id=ystenlive
