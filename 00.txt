@@ -1,11 +1,13 @@
-
+CCTV1综合,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000018602&livemode=1&stbId=2&channel-id=ystenlive
 CCTV2财经,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000012442&livemode=1&stbId=2&channel-id=ystenlive
 CCTV3综艺,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000011218&livemode=1&stbId=2&channel-id=ystenlive
 
 CCTV5体育,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000004794&livemode=1&stbId=2&channel-id=ystenlive
+CCTV5+体育赛事,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000018504&livemode=1&stbId=2&channel-id=ystenlive
 CCTV6电影,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000001737&livemode=1&stbId=2&channel-id=ystenlive
 CCTV6电影,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000016466&livemode=1&stbId=2&channel-id=ystenlive
 CCTV7国防军事,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000017218&livemode=1&stbId=2&channel-id=ystenlive
+
 CCTV8电视剧,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000003736&livemode=1&stbId=2&channel-id=ystenlive
 CCTV9记录,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000014583&livemode=1&stbId=2&channel-id=ystenlive
 
@@ -13,29 +15,39 @@ CCTV9记录,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=10000000
 CCTV12,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000001640&livemode=1&stbId=2&channel-id=ystenlive
 
 CCTV14少儿,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000008170&livemode=1&stbId=2&channel-id=ystenlive
+BRTV北京卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000017156&livemode=1&stbId=2&channel-id=ystenlive
+BRTV纪实科教,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000001910&livemode=1&stbId=2&channel-id=ystenlive
 天津卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000000831&livemode=1&stbId=2&channel-id=ystenlive
-重庆卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000001096&livemode=1&stbId=2&channel-id=ystenlive
-江苏卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000001828&livemode=1&stbId=2&channel-id=ystenlive
-江苏卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000004684&livemode=1&stbId=2&channel-id=ystenlive
+天津卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000003475&livemode=1&stbId=2&channel-id=ystenlive
+
+
 黑龙江卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000001925&livemode=1&stbId=2&channel-id=ystenlive
 黑龙江卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000009082&livemode=1&stbId=2&channel-id=ystenlive
 辽宁卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000001945&livemode=1&stbId=2&channel-id=ystenlive
-天津卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000003475&livemode=1&stbId=2&channel-id=ystenlive
-湖北卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000010355&livemode=1&stbId=2&channel-id=ystenlive
-
-上海东方卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000005866&livemode=1&stbId=2&channel-id=ystenlive
-湖南卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000009115&livemode=1&stbId=2&channel-id=ystenlive
-深圳卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000009227&livemode=1&stbId=2&channel-id=ystenlive
-浙江卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000009806&livemode=1&stbId=2&channel-id=ystenlive
-浙江卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000014260&livemode=1&stbId=2&channel-id=ystenlive
-深圳卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000011645&livemode=1&stbId=2&channel-id=ystenlive
-山东卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000012807&livemode=1&stbId=2&channel-id=ystenlive
-江西卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000013731&livemode=1&stbId=2&channel-id=ystenlive
-广东卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000014176&livemode=1&stbId=2&channel-id=ystenlive
 
 山东卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000016568&livemode=1&stbId=2&channel-id=ystenlive
-BRTV北京卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000017156&livemode=1&stbId=2&channel-id=ystenlive
-BRTV纪实科教,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000001910&livemode=1&stbId=2&channel-id=ystenlive
+山东卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000012807&livemode=1&stbId=2&channel-id=ystenlive
+上海东方卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000005866&livemode=1&stbId=2&channel-id=ystenlive
+
+江苏卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000001828&livemode=1&stbId=2&channel-id=ystenlive
+江苏卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000004684&livemode=1&stbId=2&channel-id=ystenlive
+浙江卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000009806&livemode=1&stbId=2&channel-id=ystenlive
+浙江卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000014260&livemode=1&stbId=2&channel-id=ystenlive
+
+湖北卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000010355&livemode=1&stbId=2&channel-id=ystenlive
+湖南卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000009115&livemode=1&stbId=2&channel-id=ystenlive
+重庆卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000001096&livemode=1&stbId=2&channel-id=ystenlive
+
+江西卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000013731&livemode=1&stbId=2&channel-id=ystenlive
+广东卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000014176&livemode=1&stbId=2&channel-id=ystenlive
+深圳卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000009227&livemode=1&stbId=2&channel-id=ystenlive
+深圳卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000011645&livemode=1&stbId=2&channel-id=ystenlive
+
+
+
+
+
+
 
 
 超级电影,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000012884&livemode=1&stbId=2&channel-id=ystenlive
