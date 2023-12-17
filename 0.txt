@@ -1,3 +1,4 @@
+央视频道,#genre#
 CCTV1,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=5000000010000030810&livemode=1&stbId=10&channel-id=bestzb
 CCTV1,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000021973&livemode=1&stbId=2&channel-id=ystenlive
 CCTV1,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000018602&livemode=1&stbId=2&channel-id=ystenlive
@@ -27,6 +28,8 @@ CCTV14,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000
 CCTV14,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000008170&livemode=1&stbId=2&channel-id=ystenlive
 CCTV15,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000002000008163&livemode=1&stbId=2&channel-id=ystenlive
 CCTV17,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000005000056836&livemode=1&stbId=2&channel-id=ystenlive
+
+卫视频道,#genre#
 北京卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000017156&livemode=1&stbId=2&channel-id=ystenlive
 北京卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000021288&livemode=1&stbId=2&channel-id=ystenlive
 东方卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000030202&livemode=1&stbId=2&channel-id=ystenlive
@@ -102,17 +105,28 @@ CCTV17,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000005000
 凤凰卫视中文台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 凤凰卫视资讯台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 
+CGTN频道,#genre#
 CGTN纪录(黑龙江移动),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 CGTN纪录(黑龙江移动),http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
+北京纪实人文,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000001910&livemode=1&stbId=2&channel-id=ystenlive
+
+中央新影频道,#genre#
 中央新影发现之旅(陕西移动[CDN]-576P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 中央新影老故事(贵州移动[CDN]-576P),http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
+湖南金鹰频道,#genre#
 湖南金鹰纪实(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
+
+山东教育频道,#genre#
 山东教育卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
 山东教育卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 山东教育卫视,http://39.134.66.66/PLTV/88888888/224/3221225558/index.m3u8
+
+上海纪实人文频道,#genre#
 上海纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 上海纪实人文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 上海纪实人文,http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
+
+浙江卫视频道,#genre#
 浙江公共新闻HD(浙江中国蓝官方-1080P),http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江公共新闻HD(浙江中国蓝官方-1080P),http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 浙江国际HD(浙江中国蓝官方-1080P),http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
@@ -127,11 +141,13 @@ CGTN纪录(黑龙江移动),http://39.134.66.66/PLTV/88888888/224/3221225509/ind
 浙江少儿HD(浙江中国蓝官方-1080P),http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 浙江数码时代HD(浙江中国蓝官方-1080P),http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江数码时代HD(浙江中国蓝官方-1080P),http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
+
+CHC频道,#genre#
 CHC动作电影(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 
-
+上视频道,#genre#
 上视ICS,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=5000000010000030951&livemode=1&stbId=10&channel-id=bestzb
 上视东方影视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=5000000010000032212&livemode=1&stbId=10&channel-id=bestzb
 上视动漫秀场,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=5000000002000023636&livemode=1&stbId=10&channel-id=bestzb
@@ -140,14 +156,15 @@ CHC家庭影院(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/8
 上视纪实人文,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000010606&livemode=1&stbId=2&channel-id=ystenlive
 上视纪实人文,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000016545&livemode=1&stbId=2&channel-id=ystenlive
 上视五星体育,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=5000000010000017540&livemode=1&stbId=10&channel-id=bestzb
-北京冬奥纪实,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000001910&livemode=1&stbId=2&channel-id=ystenlive
 
+黑莓频道,#genre#
 黑莓电竞,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000003775&livemode=1&stbId=2&channel-id=ystenlive
 黑莓电竞,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000006906&livemode=1&stbId=2&channel-id=ystenlive
 黑莓电竞,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=5320946857686967621&livemode=1&stbId=2&channel-id=ystenlive
 黑莓电影,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=8785669936177902664&livemode=1&stbId=2&channel-id=ystenlive
 黑莓动画,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=6497762188035533951&livemode=1&stbId=2&channel-id=ystenlive
 
+NewTV频道,#genre#
 NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV东北热剧,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
 NewTV明星大片,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000004000019008&livemode=1&stbId=2&channel-id=ystenlive
@@ -179,11 +196,13 @@ NewTV精品纪录,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=62
 NewTV金牌综艺,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=6399725674632152632&livemode=1&stbId=2&channel-id=ystenlive
 NewTV精品体育,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=6460382139625130259&livemode=1&stbId=2&channel-id=ystenlive
 
+SiTV频道,#genre#
 SiTV都市剧场(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
 SiTV欢笑剧场4K(陕西移动[CDN]-2176P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 SiTV全纪实(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
 SiTV游戏风云(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
 
+百事通频道,#genre#
 百事通体育(陕西移动[CDN]-720P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8
 百视通超级体育(陕西移动[CDN]-720P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
 百视通超级体育(陕西移动[CDN]-720P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225849/index.m3u8
