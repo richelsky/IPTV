@@ -33,7 +33,8 @@ CCTV17,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000005000
 卫视频道,#genre#
 北京卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000017156&livemode=1&stbId=2&channel-id=ystenlive
 北京卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000021288&livemode=1&stbId=2&channel-id=ystenlive
-北京卫视纪实科教,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+北京纪实科教,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000001910&livemode=1&stbId=2&channel-id=ystenlive
+北京纪实科教,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 东方卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000030202&livemode=1&stbId=2&channel-id=ystenlive
 东方卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000005866&livemode=1&stbId=2&channel-id=ystenlive
 天津卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000003475&livemode=1&stbId=2&channel-id=ystenlive
@@ -127,7 +128,6 @@ CCTV17,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000005000
 CGTN频道,#genre#
 CGTN纪录(黑龙江移动),http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 CGTN纪录(黑龙江移动),http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
-北京纪实人文,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000001910&livemode=1&stbId=2&channel-id=ystenlive
 
 中央新影频道,#genre#
 中央新影发现之旅(陕西移动[CDN]-576P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
