@@ -132,6 +132,7 @@ CGTN纪录(黑龙江移动),http://39.134.66.66/PLTV/88888888/224/3221225509/ind
 中央新影频道,#genre#
 中央新影发现之旅(陕西移动[CDN]-576P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 中央新影老故事(贵州移动[CDN]-576P),http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
+
 湖南金鹰频道,#genre#
 湖南金鹰纪实(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226351/index.m3u8
 
