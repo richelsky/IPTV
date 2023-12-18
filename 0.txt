@@ -76,11 +76,7 @@ CCTV17,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000005000
 河北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8
 河北卫视,http://39.134.66.66/PLTV/88888888/224/3221225495/index.m3u8
-河北卫视HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226058/1/index.m3u8?fmt=ts2hls
-河北卫视HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225713/1/index.m3u8?fmt=ts2hls
 河南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
-河南卫视HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226032/1/index.m3u8?fmt=ts2hls
-河南卫视HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
 四川康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
 四川康巴卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 四川康巴卫视,http://39.134.66.66/PLTV/88888888/224/3221225527/index.m3u8
