@@ -34,6 +34,7 @@ CCTV17,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000005000
 北京卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000017156&livemode=1&stbId=2&channel-id=ystenlive
 北京卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000021288&livemode=1&stbId=2&channel-id=ystenlive
 北京纪实科教,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000001910&livemode=1&stbId=2&channel-id=ystenlive
+北京纪实科教,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000028380&livemode=1&stbId=2&channel-id=ystenlive
 北京纪实科教,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 东方卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000030202&livemode=1&stbId=2&channel-id=ystenlive
 东方卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000005866&livemode=1&stbId=2&channel-id=ystenlive
