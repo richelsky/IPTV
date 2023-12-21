@@ -361,9 +361,6 @@ AuthInfo=j1DoYCEfx%2BPyfrxhia1obgCd77g5iTQTOGelP%2BXskAviDhBlCIxmWHsezH7cbFxoRsV
 湖北｜荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 湖北｜崇阳综合,http://61.184.176.248:10500/live/live.m3u8
 湖北｜当阳,http://dangyang-live21.cjyun.org/10118/s10118-DYZH.m3u8?auth_key=1704038399-0-0-d94526965480b96a43608d6ddad3c9a8
-湖北｜恩施文旅,http://lu1.cc/c/tv/hubtv/cjy.php?id=eswl
-湖北｜恩施综合,http://lu1.cc/c/tv/hubtv/cjy.php?id=eszh
-湖北｜汉川新闻,http://p8.vzan.com/slowlive/604813851248246017/live.m3u8
 湖北｜红安综合,http://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1704038399-0-0-636fa13407289721c04902585b40acec
 湖北｜谷城,http://gucheng-live21.cjyun.org/10116/s10116-GCTV1.m3u8?auth_key=1704038399-0-0-9b04df5d845d5e76347ce466fdcd2032
 湖北｜鄂州公共,http://ezhou-live21.cjyun.org/10098/s10098-EZ2T.m3u8?auth_key=1704038399-0-0-7387d4927e444c08f898365bb0a16e87
