@@ -125,7 +125,6 @@ CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/32
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228188/index.m3u8
 CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228156/index.m3u8
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-CCTV5+,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228283/index.m3u8
 CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
@@ -225,7 +224,6 @@ CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
 CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
-
 卫视频道,#genre#
 北京卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000017156&livemode=1&stbId=2&channel-id=ystenlive
 北京卫视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000021288&livemode=1&stbId=2&channel-id=ystenlive
@@ -311,13 +309,10 @@ AuthInfo=j1DoYCEfx%2BPyfrxhia1obgCd77g5iTQTOGelP%2BXskAviDhBlCIxmWHsezH7cbFxoRsV
 兵团卫视,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225722/1/index.m3u8?fmt=ts2hls
 兵团卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-
-
 香港凤凰频道,#genre#
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]/ott.mobaibox.com/PLTV/3/224/3221228530/1.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-
 湖北卫视频道,#genre#
 湖北｜卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225975/index.m3u8
 湖北｜卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001027/index.m3u8
@@ -370,18 +365,15 @@ AuthInfo=j1DoYCEfx%2BPyfrxhia1obgCd77g5iTQTOGelP%2BXskAviDhBlCIxmWHsezH7cbFxoRsV
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 郧阳新闻综合,http://58.19.198.159:2021/hls1.m3u8?zhubd
-
 湖南金鹰频道,#genre#
 湖南金鹰纪实_2.5M1080HEVC,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUaWf4k%2B88FALXqp3i7ExZ4HArfvJF2pWpm4RxcBNhZ7j8oKdkoj6hFDX2k81AyJk8L2ZgQL4lTNsyfhwMVyjNWA
 湖南金鹰卡通_4M1080HEVC,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 湖南快乐垂钓_2.5M1080HEVC,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRJiJ8tFyWVQ4LIMJg%2BXyuQCUUYb4If0LygirGPvYsbTi60DjU3KKPbFtbFrR1EGj%2FI
 湖南快乐垂钓(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226805/index.m3u8
-
 山东教育频道,#genre#
 山东教育卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
 山东教育卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 山东教育卫视,http://39.134.66.66/PLTV/88888888/224/3221225558/index.m3u8
-
 浙江卫视频道,#genre#
 浙江公共新闻HD(浙江中国蓝官方-1080P),http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江公共新闻HD(浙江中国蓝官方-1080P),http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
@@ -397,7 +389,6 @@ AuthInfo=j1DoYCEfx%2BPyfrxhia1obgCd77g5iTQTOGelP%2BXskAviDhBlCIxmWHsezH7cbFxoRsV
 浙江少儿HD(浙江中国蓝官方-1080P),http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 浙江数码时代HD(浙江中国蓝官方-1080P),http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江数码时代HD(浙江中国蓝官方-1080P),http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
-
 上视频道,#genre#
 上视ICS,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=5000000010000030951&livemode=1&stbId=10&channel-id=bestzb
 上视东方影视,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=5000000010000032212&livemode=1&stbId=10&channel-id=bestzb
@@ -409,7 +400,6 @@ AuthInfo=j1DoYCEfx%2BPyfrxhia1obgCd77g5iTQTOGelP%2BXskAviDhBlCIxmWHsezH7cbFxoRsV
 上视纪实人文,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000016545&livemode=1&stbId=2&channel-id=ystenlive
 上视五星体育,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=5000000010000017540&livemode=1&stbId=10&channel-id=bestzb
 上视五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
-
 CHC频道,#genre#
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -426,23 +416,19 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.
 CHC动作电影(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC高清电影(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC家庭影院(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-
 纬来频道,#genre#
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-
 求索频道,#genre#
 求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3 
 求索纪录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-
 黑莓频道,#genre#
 黑莓电竞,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000003775&livemode=1&stbId=2&channel-id=ystenlive
 黑莓电竞,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=1000000001000006906&livemode=1&stbId=2&channel-id=ystenlive
 黑莓电竞,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=5320946857686967621&livemode=1&stbId=2&channel-id=ystenlive
 黑莓电影,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=8785669936177902664&livemode=1&stbId=2&channel-id=ystenlive
 黑莓动画,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=6497762188035533951&livemode=1&stbId=2&channel-id=ystenlive
-
 NewTV频道,#genre#
 NewTV东北热剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 NewTV东北热剧,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
@@ -474,13 +460,11 @@ NewTV精品大剧,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=78
 NewTV精品纪录,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=6298506997017621594&livemode=1&stbId=2&channel-id=ystenlive
 NewTV金牌综艺,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=6399725674632152632&livemode=1&stbId=2&channel-id=ystenlive
 NewTV精品体育,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=6460382139625130259&livemode=1&stbId=2&channel-id=ystenlive
-
 SiTV频道,#genre#
 SiTV都市剧场(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
 SiTV欢笑剧场4K(陕西移动[CDN]-2176P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 SiTV全纪实(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
 SiTV游戏风云(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
-
 百事通频道,#genre#
 百事通体育(陕西移动[CDN]-720P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225850/index.m3u8
 百视通超级体育(陕西移动[CDN]-720P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
@@ -490,7 +474,6 @@ SiTV游戏风云(陕西移动[CDN]-1080P),http://dbiptv.sn.chinamobile.com/PLTV/
 百视通体育(陕西移动[CDN]-720P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8
 百视通体育(陕西移动[CDN]-720P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225836/index.m3u8
 百视通体育(陕西移动[CDN]-720P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225839/index.m3u8
-
 iHOT频道,#genre#
 iHOT爱悬疑「IPV6」,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
 iHOT爱电竞「IPV6」,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
@@ -522,7 +505,6 @@ iHOT爱喜剧「IPV6」,http://[2409:8087:7001:20:1000::95]:6610/000000001000/60
 iHOT爱幼教「IPV6」,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000180630&livemode=1&stbId=3
 iHOT爱娱乐「IPV6」,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3
 iHOT爱院线「IPV6」,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
-
 央视风云网络频道,#genre#
 CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 CCTV第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
@@ -591,11 +573,9 @@ CCTV央视文化精品,http://111.20.40.164/PLTV/88888893/224/3221226981/index.m
 CCTV央视文化精品,http://111.20.40.165/PLTV/88888893/224/3221226981/index.m3u8
 CCTV央视文化精品,http://111.20.40.166/PLTV/88888893/224/3221226981/index.m3u8
 CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m3u8
-
 中央新影频道,#genre#
 中央新影发现之旅(陕西移动[CDN]-576P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 中央新影老故事(贵州移动[CDN]-576P),http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
-
 🚛轮播斗鱼,#genre#
 邵氏影院,http://43.138.170.29:35455/douyu/4246519
 鬼片恐怖惊悚,http://43.138.170.29:35455/douyu/2935323
@@ -641,13 +621,9 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 神乐影片2,http://43.138.170.29:35455/douyu/85894
 贝爷MAX厅,http://43.138.170.29:35455/douyu/4332
 喜剧经典,http://43.138.170.29:35455/douyu/9650887
-豆瓣高分,http://43.138.170.29:35455/douyu/8770422
 女神金电影,http://43.138.170.29:35455/douyu/747764
-贝爷影厅2,http://43.138.170.29:35455/douyu/36337
 可乐电影,http://43.138.170.29:35455/douyu/20415
-冰冰经典电影,http://43.138.170.29:35455/douyu/74374
 奶虫恐怖电影,http://43.138.170.29:35455/douyu/263824
-避风港影院,http://43.138.170.29:35455/douyu/9826611
 【神剧】经典神剧,http://43.138.170.29:35455/douyu/3700024
 【贝爷影厅】经典科幻动作灾难巨兽,http://43.138.170.29:35455/douyu/252802
 斗鱼电影7,http://43.138.170.29:35455/douyu/3637726
@@ -715,7 +691,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 斗鱼电影5,http://175.6.244.106/open-tct.douyucdn2.cn/dyliveflv1a/315457rYgPR3LxvN_2000.flv?wsAuth=5f8651d547ebff3b8670ef41070a0130&token=cpn-androidmpro-0-315457-2a7d21b732624e7c58b318913d2eef8a284969cf5eb3bdac&logo=0&expire=0&did=b07ab7c5bfe647509434cb9cbdb45a9b&origin=tct&vhost=play2&sid=347215512&mt=1&TxLiveCode=hot_stream&svr_type=live_oc&tencent_test_client_ip=27.148.94.212&dispatch_from=OC_MGR125.77.176.166&utime=1684683861079
 斗鱼电影7,http://175.6.244.223/open-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=0db146bb109f50e720b5cef4476b309a&token=cpn-androidmpro-0-20415-b6774b3b3249db1771769e22cc074d49ccf6be9b602186cb&logo=0&expire=0&did=b07ab7c5bfe647509434cb9cbdb45a9b&origin=tct&vhost=play1&sid=349174691&mt=1&TxLiveCode=hot_stream&svr_type=live_oc&tencent_test_client_ip=27.148.94.212&dispatch_from=OC_MGR125.77.176.166&utime=1684683669763
 斗鱼电影8,http://175.6.244.241/open-tct.douyucdn2.cn/dyliveflv3/434971rVE9nLx424_2000.flv?wsAuth=af1991c9f40d1851a54b2fa5bd66a26f&token=cpn-androidmpro-0-434971-cf13bf7243421b8d5c02ef3d21f7b1c9c4365dc8e69489b3&logo=0&expire=0&did=b07ab7c5bfe647509434cb9cbdb45a9b&origin=tct&vhost=play3&sid=348633425&mt=1&TxLiveCode=hot_stream&svr_type=live_oc&tencent_test_client_ip=27.148.94.212&dispatch_from=OC_MGR125.77.176.166&utime=1684683769878
-
 🚛轮播虎牙,#genre#
 虎牙-周星星,http://43.138.170.29:35455/huya/24470631
 虎牙-林正英,http://43.138.170.29:35455/huya/11342421
@@ -803,7 +778,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 虎牙-文成公主,http://43.138.170.29:35455/huya/11352974
 虎牙-我是大哥大,http://43.138.170.29:35455/huya/23652317
 虎牙-喜剧合家欢,http://43.138.170.29:35455/huya/11352877
-虎牙-喜剧专场,http://43.138.170.29:35455/huya/11602044
 虎牙-小鲤鱼,http://43.138.170.29:35455/huya/11601961
 虎牙-悬疑推理,http://43.138.170.29:35455/huya/17445539
 虎牙-杨门女将,http://43.138.170.29:35455/huya/11336590
@@ -814,7 +788,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 虎牙-中国功夫,http://43.138.170.29:35455/huya/11352941
 虎牙-朱雀青龙,http://43.138.170.29:35455/huya/11352905
 虎牙-捉妖记,http://43.138.170.29:35455/huya/11342414
-女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 虎牙-周星星,http://mmitv.top/pltv/huya.php?id=11342412
 虎牙-林正英,http://mmitv.top/pltv/huya.php?id=11342421
 虎牙-沈腾,http://mmitv.top/pltv/huya.php?id=11601968
@@ -866,7 +839,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 虎牙-欧美电影,http://mmitv.top/pltv/huya.php?id=21059581
 虎牙-欧美娱乐,http://mmitv.top/pltv/huya.php?id=21059574
 虎牙-倩女幽魂,http://mmitv.top/pltv/huya.php?id=11601970
-女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 港台电影,http://mmitv.top/pltv/huya.php?id=880261
 黑帮斗争,http://mmitv.top/pltv/huya.php?id=11342419
 未知,http://mmitv.top/pltv/huya.php?id=11601986
@@ -899,7 +871,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 虎牙-文成公主,http://mmitv.top/pltv/huya.php?id=11352974
 虎牙-我是大哥大,http://mmitv.top/pltv/huya.php?id=23652317
 虎牙-喜剧合家欢,http://mmitv.top/pltv/huya.php?id=11352877
-虎牙-喜剧专场,http://mmitv.top/pltv/huya.php?id=11602044
 虎牙-小鲤鱼,http://mmitv.top/pltv/huya.php?id=11601961
 虎牙-悬疑推理,http://mmitv.top/pltv/huya.php?id=17445539
 虎牙-杨门女将,http://mmitv.top/pltv/huya.php?id=11336590
@@ -910,7 +881,6 @@ CCTV央视文化精品,http://111.20.40.167/PLTV/88888893/224/3221226981/index.m
 虎牙-中国功夫,http://mmitv.top/pltv/huya.php?id=11352941
 虎牙-朱雀青龙,http://mmitv.top/pltv/huya.php?id=11352905
 虎牙-捉妖记,http://mmitv.top/pltv/huya.php?id=11342414
-
 🚛YY·轮播,#genre#
 加勒比海盗系列,http://mmitv.top/pltv/yy.php?id=1382749914
 叶问全集,http://mmitv.top/pltv/yy.php?id=1382828771
@@ -1436,7 +1406,6 @@ X战警系列电影,http://mmitv.top/pltv/yy.php?id=1382736893
 本山快乐营1,http://mmitv.top/pltv/yy.php?id=1354936209
 大唐双龙传,http://mmitv.top/pltv/yy.php?id=1354930979
 春晚小品,http://mmitv.top/pltv/yy.php?id=1382773705
-黄大妮-电视剧,http://mmitv.top/pltv/yy.php?id=1354930904
 黄大妮-电视剧,http://mmitv.top/pltv/yy.php?id=1354930904
 重生之超级赛亚人,http://mmitv.top/pltv/yy.php?id=1354936124
 一起来笑吧,http://mmitv.top/pltv/yy.php?id=1454859415
