@@ -463,7 +463,7 @@ NewTV金牌综艺,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=63
 NewTV精品体育,http://39.135.253.7/0000000000001001/1/index.m3u8?Contentid=6460382139625130259&livemode=1&stbId=2&channel-id=ystenlive
 SiTV频道,#genre#
 SiTV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
-SiTV欢笑剧场4K(陕西移动[CDN]-2176P),http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
+SiTV欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 SiTV全纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
 SiTV游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
 iHOT频道,#genre#
