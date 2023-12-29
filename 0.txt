@@ -326,10 +326,6 @@ AuthInfo=j1DoYCEfx%2BPyfrxhia1obgCd77g5iTQTOGelP%2BXskAviDhBlCIxmWHsezH7cbFxoRsV
 浙江少儿HD,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 浙江数码时代HD,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江数码时代HD,http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
-上视频道,#genre#
-
-上视东方影视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001016/index.m3u8?
-上视五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 CHC频道,#genre#
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
