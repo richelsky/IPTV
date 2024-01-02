@@ -625,8 +625,7 @@ CCTV-17,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 湖南卫视,http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
-湖南卫视HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226089/1/index.m3u8?fmt=ts2hls
-湖南卫视HD,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225707/1/index.m3u8?fmt=ts2hls
+
 吉林卫视,http://stream1.jlntv.cn/jlws/sd/live.m3u8
 吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
 吉林延边卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
