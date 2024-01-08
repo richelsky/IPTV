@@ -350,6 +350,7 @@ CCTV17,http://221.2.36.34:8888/newlive/live/hls/19/live.m3u8
 兵团卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126389BESTVSMGSMG9/index.m3u8?AuthInfo=kXVqgwiFNDsA8L8UADdm1g0lb%2BtkfnGmv76VRSC5BUjrd9dcupuLFZtkbnZDW1ncykI0zNYTgRcsAj5Z6uTckA%3D%3D
 
 北京纪实科教,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+湖北卫视,http://27.29.115.50:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
 湖北卫视,http://27.17.116.10:3520/rtp/239.254.96.115:8664
 河北卫视,http://27.17.116.10:3520/rtp/239.254.96.113:9616
 深圳卫视,http://27.17.116.10:3520/rtp/239.254.96.137:8896
