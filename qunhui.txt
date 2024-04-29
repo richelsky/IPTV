@@ -1,5 +1,5 @@
 
-央視頻道|密码：
+央視頻道,#genre#
 CCTV1,http://180.164.40.181:2222/udp/239.45.3.88:5140 
 CCTV2,http://180.164.40.181:2222/udp/239.45.0.1:5140 
 CCTV3,http://180.164.40.181:2222/udp/239.45.1.68:5140 
@@ -18,7 +18,7 @@ CCTV14,http://180.164.40.181:2222/udp/239.45.3.23:5140
 CCTV15,http://180.164.40.181:2222/udp/239.45.0.20:5140 
 CCTV16,http://180.164.40.181:2222/udp/239.45.0.10:5140 
 CCTV17,http://180.164.40.181:2222/udp/239.45.3.52:5140 
-衛視頻道|密码：
+衛視頻道,#genre#
 安徽卫视,http://180.164.40.181:2222/udp/239.45.3.143:5140 
 北京卫视,http://180.164.40.181:2222/udp/239.45.3.229:5140 
 兵团卫视,http://180.164.40.181:2222/udp/239.45.1.117:5140 
@@ -59,7 +59,7 @@ CCTV17,http://180.164.40.181:2222/udp/239.45.3.52:5140
 都市剧场,http://180.164.40.181:2222/udp/239.45.3.136:5140 
 纪实人文,http://180.164.40.181:2222/udp/239.45.3.212:5140 
 七彩戏剧,http://180.164.40.181:2222/udp/239.45.0.16:5140 
-香港臺灣|密码：
+香港臺灣,#genre#
 華視,rtmp://f13h.mine.nu/sat/tv111 
 中視,rtmp://f13h.mine.nu/sat/tv091 
 台視,rtmp://f13h.mine.nu/sat/tv071 
@@ -76,7 +76,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8 
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8 
 八大综合,http://61.221.215.25:8800/hls/56/index.m3u8 
-輪播影院|密码：
+輪播影院,#genre#
 小鬼头,http://124.248.69.76:35455/huya/11352963 
 刘德华,http://124.248.69.76:35455/huya/11342424 
 许冠英,http://124.248.69.76:35455/huya/11601972 
@@ -100,7 +100,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 喜剧,http://124.248.69.76:35455/huya/11352877 
 港片,http://124.248.69.76:35455/huya/11602043 
 国产,http://124.248.69.76:35455/huya/11352973 
-黃金劇場|密码：
+黃金劇場,#genre#
 欢乐剧场电视剧9,http://124.248.69.76:35455/douyu/7489563 
 喜剧专场,http://124.248.69.76:35455/huya/11602044 
 高分动作,http://124.248.69.76:35455/huya/11352884 
@@ -115,7 +115,7 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 蘑菇影厅,http://124.248.69.76:35455/huya/11601981 
 搞笑恐怖,http://124.248.69.76:35455/huya/11601960 
 死神来了,http://124.248.69.76:35455/huya/11352903 
-馬來直播|密码：
+馬來直播,#genre#
 TV1,mitv://generationnexxxt.com:19806/a3299ebd988b447992cf982df2ea7562 
 TV2,mitv://generationnexxxt.com:19806/facbc81537924664aaf429b4e0faec17 
 TV3,mitv://generationnexxxt.com:19806/6a00a0b3636340a4bc00626fedaa36f6 
@@ -134,7 +134,7 @@ Astro欢喜台,mitv://generationnexxxt.com:19806/a2f732d447dc4c0b9e80417490de4e1
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c 
 千禧经典台,mitv://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a 
 TVBS亚洲,mitv://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9 
-電影直播|密码：
+電影直播,#genre#
 CCTV6,mitv://generationnexxxt.com:19806/3ec70c48b2024e4f9210169aec2914c7 
 tvN,mitv://generationnexxxt.com:19806/c6e40b3dec3344909fc0ca9378a7f4c7 
 私人影院,mitv://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d 
@@ -161,7 +161,7 @@ CatchPlay电影台,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f
 采昌影剧台,mitv://generationnexxxt.com:19806/a0d691053f9b4876ab2b509a62296911 
 影迷数位电影台,mitv://generationnexxxt.com:19806/bc069c037478448a9e41dbc3e1d5d0f6 
 美亚电影台(粤语),mitv://generationnexxxt.com:19806/ee16565eb5fe46be8d22cbbde1fa9fae 
-戲劇直播|密码：
+戲劇直播,#genre#
 东森戏剧台,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce 
 八大戏剧台,mitv://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83 
 纬来戏剧台,mitv://generationnexxxt.com:19806/69036778f8fc40729301e9e88aeee556 
@@ -172,7 +172,7 @@ CatchPlay电影台,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f
 EYE,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f89 
 爱尔达影剧台,mitv://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f 
 亚洲剧台,mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24 
-日本直播|密码：
+日本直播,#genre#
 ABCテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0 
 BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0 
 BSアニマックス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0 
@@ -206,7 +206,7 @@ WOWOW,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&is
 日本テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=10&bind=0&uin=159413&playseek=0 
 日本映画専門,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0 
 時代劇専門,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0 
-臺灣直播|密码：
+臺灣直播,#genre#
 民视,mitv://135.148.104.228:19806/7b046996e7d5417eb4a619194072bbc0 
 台视,mitv://135.148.104.228:19806/9868c18e3c0940cd8aa003d9ae54f862 
 大爱1台,mitv://135.148.104.228:19806/e89ec8c592484d88bc001e8d8a6c9e31 
@@ -331,7 +331,7 @@ EYETV戏剧台,mitv://135.148.104.228:19806/2831986ed4b448c9b626788fbd3f2f89
 东森新闻台(备),mitv://135.148.104.228:19806/35983e2efd5c44bf84bfb2977bbbc96d 
 镜新闻,mitv://135.148.104.228:19806/668a0abb880a496d8f57fad2f580566b 
 MTV,mitv://135.148.104.228:19806/eb5ba5262e2e4779a1418c78d14ad1e5 
-超清直播|密码：
+超清直播,#genre#
 广东卫视高清,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.1.19:5146 
 广东卫视超清,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.166:5146 
 广东珠江超清,http://hls.xinbi.lol/gdzb.php?id=/udp/239.77.0.114:5146 
@@ -398,7 +398,7 @@ HZTV-1高清,http://ddns.cyruslee.top:8888/udp/239.77.1.232:5146
 东莞生活资讯高清,http://ddns.cyruslee.top:8888/udp/239.253.43.105:5146 
 香山文化高清,http://ddns.cyruslee.top:8888/udp/239.253.43.63:5146 
 徐闻综合高清,http://ddns.cyruslee.top:8888/udp/239.253.43.112:5146 
-鬥魚直播|密码：
+鬥魚直播,#genre#
 吃米滴虫,http://159.75.85.63:35455/douyu/315457 
 喜剧电影,http://159.75.85.63:35455/douyu/9292492 
 译制国语,http://159.75.85.63:35455/douyu/2436390 
@@ -437,7 +437,7 @@ HZTV-1高清,http://ddns.cyruslee.top:8888/udp/239.77.1.232:5146
 凛冬之地,http://43.138.170.29:35455/douyu/8945323 
 看美剧,http://43.138.170.29:35455/douyu/8869614 
 动漫直播,http://43.138.170.29:35455/douyu/1487654 
-游戏直播|密码：
+游戏直播,#genre#
 穿越火线,http://tc-tct.douyucdn2.cn/dyliveflv1/605964rzzgGEOZHr.flv?wsAuth=43ef2d796067cbec9c238c73235a1005&token=cpn-androidmpro-0-605964-b9be22700076c085e82232beb0fbe7838e28994acafb3964&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1 
 和平精英·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/999rx47n2pp8pKD_2000.flv?wsAuth=6c429f39afed615e842e02ad1a9b1c6e&token=cpn-androidmpro-0-999-d32d75306aab2a7980ad37445844bcccf012d2bb110b5c33&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1 
 梦幻西游·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/9163712rMgvzHPS8.flv?wsAuth=08386df29327fb79ef1cf360dd01e99c&token=cpn-androidmpro-0-9163712-b202112df1a8ff8ce762e1d3561b3623df9da0ea0a74880e&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1 
@@ -449,7 +449,7 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2 
 跑跑卡丁车·手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2 
 永劫无间,http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e1ec93068330e14be22a09454&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dddb241f8ecad4f36806d04b45752cbbd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2 
-小品點播|密码：
+小品點播,#genre#
 小品《送水工》赵本山,http://gcw.bdcdn.shoujiduoduo.com/v/181110/fff6f7161025c1ae11713e683d2b9c30.mp4 
 小品《功夫》赵本山,http://gcw.bdcdn.shoujiduoduo.com/v/181110/3542142ad92cdadc07142bd64b106500.mp4 
 相声《跟着媳妇当保姆》冯巩,http://gcw.bdcdn.shoujiduoduo.com/v/181110/0650ed5311b8750b7aa48e8c2a441b7c.mp4 
@@ -526,15 +526,15 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 小品《午夜电话亭》,http://gcw.bdcdn.shoujiduoduo.com/v/181113/28077935c06d6b8b0dde8876851ebba2.mp4 
 【小品】赵丽蓉,巩汉林《打工奇遇》 
 张晓英一小段幽默戏剧小品wmv,http://gcw.bdcdn.shoujiduoduo.com/v/210201/bd28160ea714935c23b59977046f3033.mp4 
-台语经典|密码：
+台语经典,#genre#
 台老歌串燒1,https://s2.pub/2qr 
 中台精品歌曲,https://s2.pub/2r0 
 全粤语经典慢摇,https://s2.pub/2r3 
-机器点播|密码：
+机器点播,#genre#
 机器人2,https://s2.pub/2r4 
 机器人3,https://s2.pub/2r5 
 机器人4,https://s2.pub/2r6 
-臺語點播|密码：
+臺語點播,#genre#
 刚刚,https://v6-dy.ixigua.com/ad96a4ae922bb2446d8e9c8aeaa48f59/64f3fb00/video/tos/cn/tos-cn-ve-15c001-alinc2/oMk1Duz3eBDIYAi9zAiERqiQ3eAkg0vTaLBBi3/?a=2011&ch=0&cr=0&dr=0&net=5&cd=0%7C0%7C0%7C0&br=1034&bt=1034&cs=0&ds=3&ft=rkG4k0071u7vpihBH6xRfoxay4BO5INTwDdz7tG&mime_type=video_mp4&qs=0&rc=OGU3PDxkN2k3aDwzNDw8PEBpajZsbm05cnhqbTMzNGkzM0BjYmFjL2BgXi0xNDE0NDA2YSNvMWBvMmRrX21gLS1kLTBzcw%3D%3D&btag=e00030000&dy_q=1693707062&l=20230903101102B6EFE0EC63DDBFF58A32 
 三杯酒~蔡佳麟,https://tx2.a.kwimgs.com/upic/2023/09/02/20/BMjAyMzA5MDIyMDUwMzJfMTQzMzExODU4XzExMTk4MDY4Nzc4Ml8yXzM=_b_B79ad884ac3c2a5db8f768b6dcc7ff5ca.mp4 
 码头酒~小凤凤,https://tx2.a.kwimgs.com/upic/2023/08/20/08/BMjAyMzA4MjAwODA1MDRfMTQzMzExODU4XzExMDkzMDQ5ODY5OV8yXzM=_b_Be2b4a9fcafbf18a60e63307a26bb41ec.mp4 
@@ -631,7 +631,7 @@ CF·手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAut
 一暝三冬~唐俪,https://txmov2.a.kwimgs.com/upic/2021/04/05/19/BMjAyMTA0MDUxOTUzMjNfMTQzMzExODU4XzQ3MzA3MTY4ODY3XzJfMw==_b_B18513483896b2272d3f0dfb3ed422d24.mp4 
 梦回泉州湾~余欢,https://txmov2.a.kwimgs.com/upic/2021/04/04/12/BMjAyMTA0MDQxMjM3MzNfMTQzMzExODU4XzQ3MjAxMTUyNDUyXzJfMw==_b_B723779793ee516498dd95d8893669a94.mp4 
 富贵梦~童欣,https://alimov2.a.kwimgs.com/upic/2021/04/03/10/BMjAyMTA0MDMxMDUzMzFfMTQzMzExODU4XzQ3MTE1ODg3NTM3XzJfMw==_b_Bb51c6af66c9bd2b749eaea581a00a838.mp4 
-電影點播|密码：
+電影點播,#genre#
 除暴安良,https://v.cdnlz7.com/20240302/16255_e02cc774/index.m3u8 
 最后的法师,https://v.cdnlz11.com/20231112/18264_bf1bd3e6/index.m3u8 
 第三个嫌疑人,https://v.cdnlz12.com/20240324/13369_6e36581e/index.m3u8 
@@ -1146,7 +1146,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 鬼干部,https://vip.ffzy-play6.com/20221112/6298_1dd44909/index.m3u8 
 天地玄门,https://vip.ffzy-play6.com/20221112/6127_d615f342/index.m3u8 
 密宗威龙,https://vip.ffzy-play7.com/20221112/3607_e49d9e93/index.m3u8 
-影劇點播|密码：
+影劇點播,#genre#
 雪中悍刀行,雪中悍刀行雪中悍刀行雪中悍刀行雪中悍刀行雪中悍刀行雪中悍刀行雪中悍刀行 
 雪中悍刀行01,https://vip.ffzy-play.com/20221020/2351_1c211ba7/2000k/hls/mixed.m3u8 
 雪中悍刀行02,https://vip.ffzy-play.com/20221020/2352_9bacc7dc/2000k/hls/mixed.m3u8 
@@ -1298,7 +1298,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 刑警使命第二十六集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC26%E9%9B%86/index.m3u8 
 刑警使命第二十七集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC27%E9%9B%86/index.m3u8 
 刑警使命第二十八集,https://s3.bfzycdn.com/video/xingjingshiming/%E7%AC%AC28%E9%9B%86/index.m3u8 
-紅色點播|密码：
+紅色點播,#genre#
 地道战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8 
 跟踪追击,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/059096230b4e46c0b5d4929ff98435d0/850.m3u8 
 红牡丹,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/921b8081b58b4c2f81fb233b6c8e89ac/850.m3u8 
@@ -1389,7 +1389,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 茜茜公主,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ffa8a73877194632b0278898f297d07b/850.m3u8 
 出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8 
 桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8 
-國語點播|密码：
+國語點播,#genre#
 MV-若是爱情,https://res.zhipianbang.com/videos/2021/1223/d9b81e9bd91b8908b6426d02d5798483.mp4 
 追光者,https://v.51vimeo.com/ata/attachment/video/1908/417/ba723fe0466d90f84948f081ae6bfd17.mp4 
 在站高原,http://song.mvbox.cn/mv1/74/00173474.mp4 
@@ -1604,12 +1604,12 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 一曲相思1,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4oDG4gUo69_8zAQ.mp4 
 一生所爱,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk9aq4gUogIDbxwQ.mp4 
 一曲相思,https://vdse.bdstatic.com//e547b08ce3afad200eec374f3c4ee450.mp4 
-经典直播|密码：
+经典直播,#genre#
 经典影视台,https://mpimg.cn/down.php/a6f6d2f38f9f4f133b4e3cda2bdcc8dc.mp4&3344520 
 经典电影台,http://ali.hlspull.yximgs.com/live/asdfg32522.flv 
 经典港澳,http://124.248.69.76:35455/huya/23734246 
 经典港台,http://124.248.69.76:35455/huya/23865142 
-外語點播|密码：
+外語點播,#genre#
 KPOPTV,https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8 
 Ara,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--_h7QUojLvmogU.mp4 
 少女时代,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgorq64gUozOXcXA.mp4 
@@ -1700,7 +1700,7 @@ Sistar,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkoe24gUo-OW_mwQ.mp4
 印度神曲B,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg45qY9wUonJT41gc.mp4 
 印度神曲C,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvZ6k4wUo0cGkhgQ.mp4 
 印度神曲D,https://5799848.s21v.faiusr.com/58/ABUIABA6GAAghrTW4gUojKzXlwI.mp4 
-廣舞點播|密码：
+廣舞點播,#genre#
 熬包相会,https://vd4.bdstatic.com/mda-naure8rpxdqh3yjd/fhd/cae_h264_nowatermark_delogo/1643494595215485694/mda-naure8rpxdqh3yjd.mp4 
 开门红,https://vd4.bdstatic.com/mda-naumbqnuhghzwq6s/fhd/cae_h264_nowatermark_delogo/1643500121185218879/mda-naumbqnuhghzwq6s.mp4 
 过年了回家了,https://vd3.bdstatic.com/mda-nau39z4svszcr0x5/fhd/cae_h264_nowatermark_delogo/1643429243213785899/mda-nau39z4svszcr0x5.mp4 
@@ -1719,7 +1719,7 @@ Sistar,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkoe24gUo-OW_mwQ.mp4
 舞套马杆,https://vd4.bdstatic.com/mda-mij9ac4rfhkhaxmy/fhd/cae_h264_nowatermark/1632135381942597333/mda-mij9ac4rfhkhaxmy.mp4 
 一万个舍不得,https://vd3.bdstatic.com/mda-mkj5gzvhhhh1mxpd/fhd/cae_h264_nowatermark/1637381541070264456/mda-mkj5gzvhhhh1mxpd.mp4 
 DJ女驸马,https://vd3.bdstatic.com/mda-mkc73kvdz3q3xwaw/fhd/cae_h264_nowatermark/1636904021328088500/mda-mkc73kvdz3q3xwaw.mp4 
-戏曲点播|密码：
+戏曲点播,#genre#
 现代曲剧--《慈母情和慈母心》合集。,http://gcw.bdcdn.shoujiduoduo.com/v/201112/274d53474cf5251ff953ce385c73cc67.mp4 
 河南曲剧《四郎探母》【探母一折】,http://gcw.bdcdn.shoujiduoduo.com/v/190505/a7900e9cbc6b71e46d7a1a895b103033.mp4 
 曲剧《李豁子说媒》,http://gcw.bdcdn.shoujiduoduo.com/v/190218/94ace5d3a1f02e68621b32b0b3477b9f.mp4 
@@ -1739,12 +1739,12 @@ DJ女驸马,https://vd3.bdstatic.com/mda-mkc73kvdz3q3xwaw/fhd/cae_h264_nowaterma
 晋剧忤逆坟-中,https://vdse.bdstatic.com//a98e29efda0bf00a810f7dc620f61d98.mp4 
 晋剧喜荣归-田桂兰王宝钗姬荣生石春香,https://vdse.bdstatic.com//25c961bfe8cf2b503c9cf8afa66af793.mp4 
 晋剧喜荣归-张芙蓉马跃文秦巧连刘芳正,https://vdse.bdstatic.com//f8d435e8c3d41157981182073bd49ea8.mp4m3u8 
-戏曲直播|密码：
+戏曲直播,#genre#
 梨园屏道,http://118.254.203.236:8888/udp/239.76.252.179:9000 
 河南戏曲,http://ik6.iptv8.net:8888/udp/225.1.4.99:1128 
 七彩喜剧,http://116.232.152.207:8888/udp/239.45.0.16:5140 
 精彩戏曲,http://ik6.iptv8.net:8888/udp/225.1.4.163:1203 
-浙江直播|密码：
+浙江直播,#genre#
 浙江频道,https://video.meizhou.cn/fs/transcode/20230413/af5/38500_1681351437_transv.mp4 
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8 
 浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8 
@@ -1792,7 +1792,7 @@ DJ女驸马,https://vd3.bdstatic.com/mda-mkc73kvdz3q3xwaw/fhd/cae_h264_nowaterma
 文成二套,http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8 
 舟山公共生活,http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed 
 苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8 
-体育直播|密码：
+体育直播,#genre#
 MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8 
 MAT体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8 
 天空体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8 
@@ -1800,7 +1800,7 @@ MAT体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
 天空体育3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7341/index.m3u8 
 天空体育4,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8 
 天空体育5,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8 
-江苏直播|密码：
+江苏直播,#genre#
 常熟民生经济,http://cstvplay.21cs.cn/cstv2/cstv2.m3u8 
 张家港新闻,http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8 
 溧水新闻,http://live.lsrmw.cn/zhpd/sd/live.m3u8 
@@ -1881,7 +1881,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 武进生活频道,https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd 
 淮阴影院频道,http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/hyys.m3u8?zjiangsd 
 姜堰新闻综合,https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8?zjiangsd 
-山西直播|密码：
+山西直播,#genre#
 卫视,http://80ec27bff7f9ae80b961481da488e302.livehwc3.cn/liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d04ce01474da4193c8863ea281ec4759 
 社会与法治,http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true 
 影视,http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true 
@@ -1939,7 +1939,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 东营公共频道,http://stream.hhek.cn/ggpd/sd/live.m3u8 
 新泰综合频道,http://live.xtgdw.cn:1935/live/xtzh/playlist.m3u8 
 新泰乡村频道,http://111.17.214.12:1935/live/xtxc/playlist.m3u8 
-安徽直播|密码：
+安徽直播,#genre#
 安徽公共,http://live.ahsx.ahtv.cn/live/ggtv.m3u8?txSecret=1ba104a5183796c21ef53d4029e8153a&txTime=6955487F 
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be.flv 
 安徽综艺,http://live.ahsx.ahtv.cn/live/zytytv.m3u8?txSecret=60b1fa7f6d8558da8445c5315a16eca9&txTime=6955487F 
@@ -1966,7 +1966,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 祁门,http://file.qmxrmt.com/nmip-media/channellive/channel108622/playlist.m3u8 
 萧县,http://60.171.239.216:9080/hls/stream1.m3u8 
 利辛2,https://live.fst1994.net/hls/lixinys/index.m3u8 
-江西直播|密码：
+江西直播,#genre#
 影视,http://113.195.172.192:808/hls/4/index.m3u8 
 南昌文旅,http://live.cooltv.top/tv/nctv.php?id=2 
 南昌资讯,http://live.cooltv.top/tv/nctv.php?id=3 
@@ -2042,7 +2042,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 眉山公共频道,http://live2.scmstv.cn/ggpd/sd/live.m3u8 
 泸州公共,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel102221/playlist.m3u8?zsicd 
 叙永综合,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8?zsicd 
-云南直播|密码：
+云南直播,#genre#
 昌宁电视台,http://live.ynurl.com/video/s10047-cntv/index.m3u8?zyund 
 峨山电视,http://live.ynurl.com/video/s10034-ESTV/index.m3u8?zyund 
 福贡综合,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8?zyund 
@@ -2074,7 +2074,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 新平综合,http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8?zyund 
 盈江综合,http://live.ynurl.com/video/s10016-YJTV-2/index.m3u8?zyund 
 元阳综合,http://tv.drs.hhtv.cc:8100/channellive/yydst.flv?zyund 
-河北直播|密码：
+河北直播,#genre#
 武汉生活,http://stream.appwuhan.com/3tzb/sd/live.m3u8 
 荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8 
 任丘综合,https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8 
@@ -2117,7 +2117,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 丰宁综合频道,https://jwcdnqx.hebyun.com.cn/live/fengningzonghe/1500k/tzwj_video.m3u8 
 平泉影视频道,https://jwcdnqx.hebyun.com.cn/live/pqys/1500k/tzwj_video.m3u8 
 双滦影视频道,https://jwcdnqx.hebyun.com.cn/live/slys/1500k/tzwj_video.m3u8 
-吉林直播|密码：
+吉林直播,#genre#
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8?zjild 
 延边-2,http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8?zjild 
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8?zjild 
@@ -2145,7 +2145,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 延边,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild 
 永吉综合频道,http://stream10.jlntv.cn/yongji/sd/live.m3u8 
 长白山电视,http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild 
-四川直播|密码：
+四川直播,#genre#
 仁寿,https://play.scrstv.com:443/TV/xwzh.m3u8?auth_key=1701335002-0-0-3f433e2a59b5dcff4ed6e1328e60d981 
 凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8 
 自贡综合,http://110.189.153.160:1001/zhpd.flv?zsicd 
@@ -2222,8 +2222,7 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 泸州新闻,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8 
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8 
 达州新闻,http://tv.drs.dzxw.net:80/channellive/xwzhpd-dz1.flv 
-河南直播|密码：
-⏹上海电信▶,
+河南直播,#genre#
 焦作综合频道,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8?zhend 
 焦作公共频道,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8?zhend 
 焦作教育频道,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8?zhend 
