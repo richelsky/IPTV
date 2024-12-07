@@ -120,13 +120,14 @@ CCTV-2,http://ha.xushining.com:50000/udp/225.1.1.133:5002$订阅源
 CCTV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$订阅源
 CCTV-2,http://zisong2014.oicp.net:4022/udp/225.1.1.133:5002$订阅源
 CCTV-2,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv2$订阅源
-CCTV-3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$订阅源|IPv6
+
 CCTV-3,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8$订阅源|IPv6
 CCTV-3,http://[2409:8087:1a0a:df::404e]:80/wh7f454c46tw1306766403_-33994166/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$订阅源|IPv6
 CCTV-3,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226021/2.m3u8$订阅源|IPv6
 CCTV-3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8?$订阅源|IPv6
 CCTV-3,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228188/index.m3u8$订阅源|IPv6
 CCTV-3,http://[2409:8087:1a0a:df::404e]:80/wh7f454c46tw1306766403_-33994166/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8?icpid=88888888&RTS=1713968135&from=4&hms_devid=1208&online=1713968135&vqe=3$订阅源|IPv6
+CCTV-3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$订阅源|IPv6
 CCTV-3,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8$订阅源|IPv6
 CCTV-3,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000003$订阅源|IPv6
 CCTV-3,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/$订阅源|IPv6
@@ -477,7 +478,7 @@ CCTV-7,http://ha.xushining.com:50000/udp/225.1.1.138:5002$订阅源
 CCTV-7,http://8.138.90.107/公众号【睡眼迷离的猫】/migu.php?id=cctv7$订阅源
 CCTV-7,http://zisong2014.oicp.net:4022/udp/225.1.1.138:5002$订阅源
 
-CCTV-8,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226008/index.m3u8$订阅源|IPv6
+
 CCTV-8,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000008/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000582$订阅源|IPv6
 CCTV-8,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000362/index.m3u8?IASHttpSessionId=$订阅源|IPv6
 CCTV-8,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228578/index.m3u8$订阅源|IPv6
