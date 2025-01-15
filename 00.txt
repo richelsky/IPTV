@@ -18,6 +18,14 @@ CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV-16,http://z.b.bkpcp.top/m.php?id=cctv16
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
+CCTV-1,http://111.9.163.109:9901/tsfile/live/0001_1.m3u8
+CCTV-2,http://111.9.163.109:9901/tsfile/live/0002_1.m3u8
+CCTV-3,http://111.9.163.109:9901/tsfile/live/0003_1.m3u8
+CCTV-4,http://111.9.163.109:9901/tsfile/live/0004_1.m3u8
+CCTV-5,http://111.9.163.109:9901/tsfile/live/0005_1.m3u8
+CCTV-6,http://111.9.163.109:9901/tsfile/live/0006_1.m3u8
+CCTV-8,http://111.9.163.109:9901/tsfile/live/0008_1.m3u8
+
 CCTV-1,http://[2409:8087:1a0a:df::4031]:80/wh7f454c46tw705163907_345094122/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 CCTV-1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8
