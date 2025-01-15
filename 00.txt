@@ -1,4 +1,23 @@
 📡中央电视台,#genre#
+CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV-4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o
+CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-16,http://z.b.bkpcp.top/m.php?id=cctv16
+CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 CCTV-1,http://[2409:8087:1a0a:df::4031]:80/wh7f454c46tw705163907_345094122/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
 CCTV-1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8
@@ -1822,6 +1841,12 @@ CCTV-17,http://61.156.228.12:8154/tsfile/live/0019_1.m3u8
 CCTV-17,http://123.113.187.204:8000/udp/239.3.1.151:8144
 
 📡卫视频道,#genre#
+广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
+湖北卫视,http://z.b.bkpcp.top/m.php?id=hubws
+江苏卫视,http://z.b.bkpcp.top/m.php?id=jsws
+江西卫视,http://z.b.bkpcp.top/m.php?id=jxws
+陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws
+
 广东卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000028357/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=3
 广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226248/index.m3u8
 广东卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000014694/1.m3u8
