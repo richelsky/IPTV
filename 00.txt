@@ -38,24 +38,6 @@ CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV-16,http://z.b.bkpcp.top/m.php?id=cctv16
 CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 
-CCTV-1,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv1#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv1
-CCTV-2,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv2#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv2
-CCTV-3,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv3#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv3
-CCTV-4,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv4#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv4
-CCTV-5,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv5#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv5
-CCTV-5+,
-CCTV-6,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv6#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv6
-CCTV-7,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv7#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv7
-CCTV-8,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv8#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv8
-CCTV-9,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv9#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv9
-CCTV-10,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv10#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv10
-CCTV-11,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv11#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv11
-CCTV-12,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv12#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv12
-CCTV-13,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv13#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv13
-CCTV-14,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv14#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv14
-CCTV-15,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv15#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv15
-CCTV-16,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv16#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv16
-CCTV-17,http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv17#http://211.101.234.24:866/aishang/migu.php/migu.php?id=cctv17
 CCTV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -102,6 +84,7 @@ CCTV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
 CCTV-11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV-15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+
 
 
 📡卫视频道,#genre#
