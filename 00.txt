@@ -338,7 +338,6 @@ CHC动作电影,http://148.135.93.213:81/live.php?id=CHC动作电影
 湖南卫视,http://tvbox6.icu/tv/migu.php?id=hunws
 江西卫视,http://tvbox6.icu/tv/migu.php?id=jxws
 江苏卫视,http://tvbox6.icu/tv/migu.php?id=jsws
-东南卫视x,http://tvbox6.icu/tv/migu.php?id=dnws
 海峡卫视,http://tvbox6.icu/tv/migu.php?id=hxws
 广东卫视,http://tvbox6.icu/tv/migu.php?id=gdws
 大湾区卫视,http://tvbox6.icu/tv/migu.php?id=dwqws
